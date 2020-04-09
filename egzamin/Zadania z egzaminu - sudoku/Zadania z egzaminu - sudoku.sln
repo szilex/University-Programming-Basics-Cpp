@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zadania z egzaminu - sudoku", "Zadania z egzaminu - sudoku\Zadania z egzaminu - sudoku.vcxproj", "{82E7EF3A-68F5-4DD0-8A00-4AEAA9E1B5CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82E7EF3A-68F5-4DD0-8A00-4AEAA9E1B5CF}.Debug|x64.ActiveCfg = Debug|x64
+		{82E7EF3A-68F5-4DD0-8A00-4AEAA9E1B5CF}.Debug|x64.Build.0 = Debug|x64
+		{82E7EF3A-68F5-4DD0-8A00-4AEAA9E1B5CF}.Debug|x86.ActiveCfg = Debug|Win32
+		{82E7EF3A-68F5-4DD0-8A00-4AEAA9E1B5CF}.Debug|x86.Build.0 = Debug|Win32
+		{82E7EF3A-68F5-4DD0-8A00-4AEAA9E1B5CF}.Release|x64.ActiveCfg = Release|x64
+		{82E7EF3A-68F5-4DD0-8A00-4AEAA9E1B5CF}.Release|x64.Build.0 = Release|x64
+		{82E7EF3A-68F5-4DD0-8A00-4AEAA9E1B5CF}.Release|x86.ActiveCfg = Release|Win32
+		{82E7EF3A-68F5-4DD0-8A00-4AEAA9E1B5CF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A74B8D54-F5D2-4EDD-B245-95712B225A25}
+	EndGlobalSection
+EndGlobal
