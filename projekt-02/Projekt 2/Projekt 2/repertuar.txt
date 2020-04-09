@@ -1,0 +1,33 @@
+Cinema: 7 halls: 50 , 40 , 30 , 50 , 84 , 40 , 40
+Movie: Star Wars: Last Jedi
+Length: 2.5
+Emission:
+Monday: 13:40 - hall 2 (20) , 19:20 - hall 2 , 15:50 - hall 4 , 22:50 - hall 7 ;
+Tuesday: 10:00 - hall 1 , 14:50 - hall 7 ;
+Wednesday: 20:20 - hall 2 ;
+Thursday: 15:00 - hall 3 ;
+Friday: 13:30 - hall 2 , 15:15 - hall 6 ;
+Saturday: 17:10 - hall 1 , 19:00 - hall 2 ;
+Sunday: 12:00 - hall 7 , 21:40 - hall 2 ;
+
+Movie: Jumanji
+Length: 2
+Emission:
+Monday: 13:40 - hall 1 , 15:50 - hall 3 ;
+Tuesday: 12:30 - hall 7 , 12:50 - hall 2 ;
+Wednesday: 20:10 - hall 5 ;
+Thursday: 15:30 - hall 4 ;
+Friday: 10:30 - hall 3 , 17:15 - hall 7 ;
+Saturday: 15:10 - hall 3 , 18:00 - hall 5 ;
+Sunday: 17:00 - hall 2 , 17:40 - hall 5 ;
+
+Movie: Transformers
+Length: 1.8
+Emission:
+Monday: 12:10 - hall 5 , 19:20 - hall 6 ;
+Tuesday: 10:30 - hall 4 , 14:30 - hall 5 ;
+Wednesday: 10:40 - hall 3 ;
+Thursday: 11:49 - hall 2 ;
+Friday: 19:30 - hall 1 , 21:15 - hall 4 ;
+Saturday: 10:10 - hall 6 , 15:00 - hall 2 ;
+Sunday: 10:00 - hall 4 , 15:40 - hall 1 ;
